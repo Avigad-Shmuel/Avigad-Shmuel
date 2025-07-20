@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Avigad Shmuel
 
-🎓 Computer Science student at the Hebrew University of Jerusalem 
-💻 Passionate about low-level systems, C/C++, networking, and algorithmic thinking 
-🚀 Always learning and building – from cryptography to compilers to OS concepts 
-👨‍👩‍👦 Proud husband and father 💙
+* 🎓 Computer Science student at the Hebrew University of Jerusalem
+* 💻 Passionate about low-level systems, C/C++, networking, and algorithmic thinking 
+* 🚀 Always learning and building – from cryptography to compilers to OS concepts 
+* 👨‍👩‍👦 Proud husband and father 💙
 
 ---
 
